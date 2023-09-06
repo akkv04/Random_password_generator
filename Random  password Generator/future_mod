@@ -1,0 +1,6 @@
+'''Future Notes:
+The password file should be encrypted
+The file should be updated in git automatically'''
+
+it should check in the file whether hte purpose already exists and if yes
+it should override the same
